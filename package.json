@@ -1,6 +1,6 @@
 {
     "name": "AliceOnRaspberry",
-    "description": "A Node-RED Project",
+    "description": "Raspberry Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-influxdb": "0.2.2",
