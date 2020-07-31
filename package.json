@@ -1,10 +1,17 @@
 {
     "name": "AliceOnRaspberry",
-    "description": "Raspberry Node-RED Project",
+    "description": "Node-RED",
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-influxdb": "0.2.2",
-        "node-red-dashboard": "2.15.4"
+        "node-red-dashboard": "2.23.0",
+        "node-red-contrib-advanced-ping": "1.2.0",
+        "node-red-contrib-alice": "0.4.1",
+        "node-red-contrib-bigtimer": "2.3.1",
+        "node-red-contrib-eztimer": "1.2.3",
+        "node-red-contrib-functionx": "1.0.0",
+        "node-red-node-base64": "0.2.1",
+        "node-red-node-pushbullet": "0.0.14"
     },
     "node-red": {
         "settings": {
