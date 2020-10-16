@@ -11,7 +11,8 @@
         "node-red-contrib-eztimer": "1.2.3",
         "node-red-contrib-functionx": "1.0.0",
         "node-red-node-base64": "0.2.1",
-        "node-red-node-pushbullet": "0.0.14"
+        "node-red-node-pushbullet": "0.0.14",
+        "node-red-contrib-google-calendar": "0.1.2"
     },
     "node-red": {
         "settings": {
